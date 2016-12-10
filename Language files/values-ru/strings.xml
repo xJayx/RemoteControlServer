@@ -24,23 +24,23 @@
     <string name="devicecs_ip">IP адрес</string>
     <string name="devicecs_name">Имя</string>
     <string name="devicecs_name_hint">Медиа ПК </string>
-    <string name="devicecs_in_network">ПК и</string>
-    <string name="devicecs_unknown">Неизвестный</string>
+    <string name="devicecs_in_network">Устройства в сети</string>
+    <string name="devicecs_unknown">Неизвестное устройство</string>
     <string name="devicecs_pin_title">Защищен паролем</string>
     <string name="devicecs_pin_desc">Защищено. Пожалуйста введите пароль для аутентификации</string> <!-- starts with device name -->
-    <string name="devicecs_pin_refused">Устройству отказано в соединении.</string>
-    <string name="devicecs_pin_accepted">Аутентификация устройств.</string>
+    <string name="devicecs_pin_refused">Устройству отказано в соединении</string>
+    <string name="devicecs_pin_accepted">Аутентификация устройств</string>
     <string name="devicecs_none_title">Нет устройств</string>
-    <string name="devicecs_none_desc">Убедитесь что вы запустили Remote Control Server на ПК, который вы хотите контролировать. \n\nВы можете скачать программу-сервер по адресу: nhttp://server.android-remote.com</string>
+    <string name="devicecs_none_desc">Убедитесь что вы запустили Remote Control Server на ПК, которым вы хотите управлять \n\nВы можете скачать программу-сервер по адресу: http://server.android-remote.com</string>
     <string name="devicecs_none_desc2">Если вы не видите ваш ПК здесь, \nдобавьте вручную IP адрес и убедитесь, что ваши устройства подключены к одной и той же сети. \n\nТак же вы можете найти расширенные инструкции по решению проблем в разделе помощи.</string>
 
     <!-- Device Status -->
     <string name="status_unknown">Неизвестный</string>
-    <string name="status_connected">Подключается</string>
+    <string name="status_connected">Подключено</string>
     <string name="status_disconnected">Отключено</string>
     <string name="status_unavailable">Недоступно</string>
     <string name="status_available">Доступно</string>
-    <string name="status_connecting">Подключено</string>
+    <string name="status_connecting">Подключение</string>
     <string name="status_searching">Выполняется поиск</string>
     <string name="status_authenticating">Аутентификация</string>
 
@@ -58,13 +58,13 @@
     <string name="remote_mouse_desc">Управлять курсором мыши, как тачпадом на ноутбуке</string>
     <string name="remote_keyboard_desc">Используйте клавиатуру вашего устройства для ввода текста на вашем ПК</string>
     <string name="remote_browser_desc">Позволяет просматривать веб-страницы</string>
-    <string name="remote_desktop_desc">Показать рабочий стол ПК \nпрямо на вашем устройстве</string>
+    <string name="remote_desktop_desc">Показать рабочий стол ПК прямо на вашем устройстве</string>
     <string name="remote_presenter_desc">Управление презентациями и вашими слайдами</string>
     <string name="remote_shortcuts_desc">Быстрый доступ к часто используемым ярлыкам</string>
     <string name="remote_voice_desc">Используйте свой голос, чтобы посылать команды на ПК</string>
     <string name="remote_media_desc">Управление вашими плеерами и системной громкостью вашего ПК</string>
     <string name="remote_custom_desc">Определить пользовательские действия в Remote Control Server</string>
-    <string name="remote_premium_desc">Открывает все премиум пульты \nи функции которые появятся  в этом приложении позднее</string>
+    <string name="remote_premium_desc">Открывает все премиум пульты и функции которые появятся  в этом приложении позднее</string>
 
     <!-- Keyboard -->
     <string name="keyboard_send_general">Общие</string>
@@ -101,8 +101,8 @@
     <string name="info_commands">Команды</string>
     <string name="info_commands_sent">Отправлено</string>
     <string name="info_commands_received">Получено</string>
-    <string name="info_links">Как нас найти</string>
-    <string name="info_disclaimer">Дисклеймер</string>
+    <string name="info_links">Ссылки</string>
+    <string name="info_disclaimer">Описание</string>
     <string name="info_disclaimer_app_desc">Доступно для  Android, BlackBerry и iOS. \nВсе права защищены © Steppschuh. \n\nПодробности о лицензии по адресу:\nremote-control-collection.com</string>
     <string name="info_disclaimer_server">Remote Control Сервер</string>
     <string name="info_disclaimer_server_desc">Доступно для Windows. \nИсходные коды доступны на GitHub и могут быть изменены для частного использования. \nВсе права защищены © Steppschuh \n\nподробности о лицензии по адресу: \ngithub.com/Steppschuh/RemoteControlServer</string>
@@ -120,7 +120,7 @@
     <string name="help_connect_desc">Следуя этому руководству вы узнаете как настроить соединение между устройствами.</string>
     <string name="help_troubleshooting">Поиск проблем</string>
     <string name="help_troubleshooting_desc">Если у вас возникли вопросы, связанные с руководством по установке, прочитайте это, чтобы узнать, как исправить самые распространенные проблемы.</string>
-    <string name="help_faq">FAQ</string>
+    <string name="help_faq">ЧАВО</string>
     <string name="help_faq_desc">Вопросы связанные с этим приложением или программой сервером. \nМожет вы  найдете ответы на ваши вопросы. \nВы также можете задать свой вопрос.</string>
     <string name="help_support">Поддержка</string>
     <string name="help_support_desc">Если у вас возникли какие-либо вопросы, \nне стесняйтесь обращаться к нам. \nМы свяжемся с вами в ближайшее время. \n\nПишите нам пожалуйста после того как прочитаете FAQ и поиск проблем</string>
